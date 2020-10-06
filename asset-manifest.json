@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cursorReact19/static/css/main.0c6ced01.chunk.css",
+    "main.js": "/cursorReact19/static/js/main.9c1e4d27.chunk.js",
+    "main.js.map": "/cursorReact19/static/js/main.9c1e4d27.chunk.js.map",
+    "runtime-main.js": "/cursorReact19/static/js/runtime-main.7b401170.js",
+    "runtime-main.js.map": "/cursorReact19/static/js/runtime-main.7b401170.js.map",
+    "static/js/2.c14545d7.chunk.js": "/cursorReact19/static/js/2.c14545d7.chunk.js",
+    "static/js/2.c14545d7.chunk.js.map": "/cursorReact19/static/js/2.c14545d7.chunk.js.map",
+    "index.html": "/cursorReact19/index.html",
+    "precache-manifest.6c079068ed82cea245ea01d0e5c3ad4a.js": "/cursorReact19/precache-manifest.6c079068ed82cea245ea01d0e5c3ad4a.js",
+    "service-worker.js": "/cursorReact19/service-worker.js",
+    "static/css/main.0c6ced01.chunk.css.map": "/cursorReact19/static/css/main.0c6ced01.chunk.css.map",
+    "static/js/2.c14545d7.chunk.js.LICENSE.txt": "/cursorReact19/static/js/2.c14545d7.chunk.js.LICENSE.txt",
+    "static/media/padlock.svg": "/cursorReact19/static/media/padlock.d964e0b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b401170.js",
+    "static/js/2.c14545d7.chunk.js",
+    "static/css/main.0c6ced01.chunk.css",
+    "static/js/main.9c1e4d27.chunk.js"
+  ]
+}
